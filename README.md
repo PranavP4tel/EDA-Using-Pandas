@@ -1,1 +1,22 @@
 # EDA-Using-Pandas
+Performed Exploratory Data Analysis on a dataset "IPL Matches" containing data of all the IPL Matches from 2008. CSV File obtained from Kaggle
+
+Worked on removing unused columns, fixed venue column values (Spelling errors and removed city from venue name), removed null values. 
+
+EDA Tasks performed:
+1. Calculating matches played by a team, their win count, and count of times a team won the toss as well as the match
+2. Calculated matches played by a team, 
+3. Calculating count of win method of a team (runs or wickets)
+4. Discovering players who have recieved maximum player of the match awards
+5. Assessing number of matches won by a team in each year
+6. Assessing number of matches played in a city
+7. Calculating team's percentage of winning a match, and percentage a winning the toss and the match 
+
+Visualizations created:
+1. Variations of win method over the years (runs and wickets)
+2. Number of matches played in a city
+3. Assessing number of times a team has won in a city
+4. Assessing toss decision taken by teams when they won the match
+5. Wins of teams in different stadiums 
+6. Win percent of each team
+7. Toss win and match win percent of a team
