@@ -20,3 +20,24 @@ Visualizations created:
 5. Wins of teams in different stadiums 
 6. Win percent of each team
 7. Toss win and match win percent of a team
+
+Also performed EDA on another dataset - Ultra Marathons: https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633
+
+Tasks performed:
+1. Filtering races with 50km and 50mi distance, held in 2020 and in USA
+2. Cleaning event name and athlete performance columns, and creating Athlete age column
+3. Dropping unused columns
+4. Finding null values and duplicate values and dropping the same
+
+Assessed:
+1. Average speed of genders for different race length
+2. Average speed for atheletes as per age, for 50mi marathon length
+3. Marathons held in different seasons
+4. Average speed for athletes for different seasons
+5. Age groups with best performances in 50mi marathon
+
+Creating plots for:
+1. No of marathons catergorized as 50km and 50mi
+2. Distribution of average speed of athletes for 50mi
+3. Distribution of average speed for different marathons as per gender
+4. Distribution of average speed and age, categorized by gender
