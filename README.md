@@ -1,5 +1,5 @@
 # EDA-Using-Pandas
-Performed Exploratory Data Analysis on a dataset "IPL Matches" containing data of all the IPL Matches from 2008. CSV File obtained from Kaggle
+A. Performed Exploratory Data Analysis on a dataset "IPL Matches" containing data of all the IPL Matches from 2008. CSV File obtained from Kaggle
 
 Worked on removing unused columns, fixed venue column values (Spelling errors and removed city from venue name), removed null values. 
 
@@ -21,7 +21,7 @@ Visualizations created:
 6. Win percent of each team
 7. Toss win and match win percent of a team
 
-Also performed EDA on another dataset - Ultra Marathons: https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633
+B. Performed EDA on another dataset - Ultra Marathons: https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633
 
 Tasks performed:
 1. Filtering races with 50km and 50mi distance, held in 2020 and in USA
@@ -41,3 +41,10 @@ Creating plots for:
 2. Distribution of average speed of athletes for 50mi
 3. Distribution of average speed for different marathons as per gender
 4. Distribution of average speed and age, categorized by gender
+
+C. Performed EDA on the World population dataset.
+Worked on:
+1. Understanding correlation between data and visualizing it
+2. Assessing population for continents over time, plotting the same
+3. Assessing population density (per sq.km) of top 10 countries as per 2022 and visualizing the same
+4. Visualizing the World population percentage contribution of different continents
